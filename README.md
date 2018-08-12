@@ -1,2 +1,2 @@
-Quantum MEchanics Course
+Quantum Mechanics Course
 Chapter 1
